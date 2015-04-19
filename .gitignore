@@ -1,0 +1,8 @@
+/cookbooks/
+/nodes/
+/install/
+Berksfile
+Berksfile.lock
+/data_bags
+/environments
+/roles
