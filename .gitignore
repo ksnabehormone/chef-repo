@@ -6,3 +6,4 @@ Berksfile.lock
 /data_bags
 /environments
 /roles
+.chef
